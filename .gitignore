@@ -6,6 +6,14 @@ sites/site*/private/
 sites/site*/public/admin/
 sites/site*/public/setup/
 sites/site*/public/theme/
-textpattern/
 HISTORY.txt
 README.txt
+1/A.fna
+1/B.fna
+2/glucose.txt
+2/glucose_6aa.txt
+2/glucose_12aa.txt
+2/glycerol.txt
+2/sorbitol.txt
+2/TSB.txt
+2/synthetic_rich.txt
